@@ -13,7 +13,6 @@ public class TestController7 {
 		Scanner in = new Scanner(System.in);
 		String str = in.nextLine();
 		
-		
 	}
 }
 
