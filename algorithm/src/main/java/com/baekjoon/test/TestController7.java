@@ -19,6 +19,8 @@ public class TestController7 {
 		
 		int ans = 0;
 		
+		
+		a.length();
 		for (int i = 0; i < n; i++) {
 			char c = a.charAt(i);
 			if ( c == '(') {

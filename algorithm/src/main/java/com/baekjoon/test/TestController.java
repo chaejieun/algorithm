@@ -1,4 +1,4 @@
-package com.lbank.test;
+package com.baekjoon.test;
 
 import java.util.Scanner;
 import java.util.Stack;
